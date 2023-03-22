@@ -54,7 +54,7 @@
 
 ## 🚀 Live Demo <a name="live-demo" target="_blank"></a>
 
-- [Live Demo Link](https://juniortestromansspilaks.000webhostapp.com/)
+- [Live Demo Link](https://juniortestromansspilaks.000webhostapp.com/project-0.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
